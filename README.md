@@ -1,6 +1,6 @@
 # :oncoming_taxi: Taxi Service :oncoming_taxi:
 
-Simple web app, where you can manage data.
+Simple web app, where you can manage taxi data.
 
 ## :star: Features  
 
