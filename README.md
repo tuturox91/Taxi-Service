@@ -9,7 +9,7 @@ Simple web app, where you can manage taxi data.
   * drivers
   * cars
   * manufacturers
-* WEB-jsp UI
+* JSP UI
 
 ## :computer: Technologies
 * JDK 11
