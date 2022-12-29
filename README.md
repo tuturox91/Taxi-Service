@@ -33,5 +33,5 @@ The project is divided into several levels:
 
 ## 🛠️ Setup guide
 
-You can find setup guide in guthub [wiki](https://github.com/tuturox91/Cinema-Service/wiki/Start-work-with-project "wiki").
+You can find setup guide in guthub [wiki](https://github.com/tuturox91/Taxi-Service/wiki/Start-work-with-project "wiki").
    
